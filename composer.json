@@ -1,0 +1,12 @@
+{
+    "name": "jguillermo/dockerSeed",
+    "authors": [
+        {
+            "name": "Jose Guillermo",
+            "email": "jose.guillermo@outlook.com"
+        }
+    ],
+    "require": {
+        "zendframework/zend-text": "^2.6"
+    }
+}

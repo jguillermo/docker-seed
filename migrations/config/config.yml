@@ -1,0 +1,4 @@
+name: Project - Doctrine Sandbox Migrations
+migrations_namespace: AppMigrations
+migrations_directory: ./migrations
+table_name: migration_version
